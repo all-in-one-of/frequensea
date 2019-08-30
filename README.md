@@ -1,4 +1,5 @@
-## Frequensea
+#
+# Frequensea
 
 Frequensea is an open-source toolkit for visualizing the electromagnetic spectrum.
 
